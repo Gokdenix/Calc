@@ -1,2 +1,3 @@
 # Calc
-a calculator written in c including factorials sequenfe generators and more.
+a calculator written in c including factorials sequence generators and more.
+look all branches src and include 
